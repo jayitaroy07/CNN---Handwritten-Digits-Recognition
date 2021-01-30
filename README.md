@@ -1,1 +1,1 @@
-# CNN---Handwritten-Digits-Recognition
+# CNN-Handwritten-Digits-Recognition
